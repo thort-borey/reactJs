@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reactjs/static/css/main.b68809ce.css",
+    "main.js": "/reactjs/static/js/main.3677bcfe.js",
+    "static/js/453.fcbfcfec.chunk.js": "/reactjs/static/js/453.fcbfcfec.chunk.js",
+    "static/media/HR.jpg": "/reactjs/static/media/HR.93297cc38f99547f8793.jpg",
+    "static/media/about-us.jpg": "/reactjs/static/media/about-us.05b80316a13651a25137.jpg",
+    "static/media/blog-details.jpg": "/reactjs/static/media/blog-details.efa90b2bab0fbef575e8.jpg",
+    "static/media/testimonial-pic.jpg": "/reactjs/static/media/testimonial-pic.7ed8dd47aac533c07c12.jpg",
+    "static/media/product-big-2.png": "/reactjs/static/media/product-big-2.c7394ddf8242c63be99d.png",
+    "static/media/hero1.jpg": "/reactjs/static/media/hero1.c081bcff664751bf4f02.jpg",
+    "static/media/breadcrumb-bg.jpg": "/reactjs/static/media/breadcrumb-bg.3cac33ad09800584ece0.jpg",
+    "static/media/blog-3.jpg": "/reactjs/static/media/blog-3.71f4f53c32d76f5acea5.jpg",
+    "static/media/blog-9.jpg": "/reactjs/static/media/blog-9.f66156cd692de6b86cd0.jpg",
+    "static/media/blog-7.jpg": "/reactjs/static/media/blog-7.207dec93173f3c86c57d.jpg",
+    "static/media/blog-6.jpg": "/reactjs/static/media/blog-6.d7513819be3923cd1b0b.jpg",
+    "static/media/blog-8.jpg": "/reactjs/static/media/blog-8.e482ac75c629118238be.jpg",
+    "static/media/team-1.jpg": "/reactjs/static/media/team-1.bc2f05819672c23b3138.jpg",
+    "static/media/team-4.jpg": "/reactjs/static/media/team-4.67736076f3cdc845836d.jpg",
+    "static/media/Newjeans.png": "/reactjs/static/media/Newjeans.f2021d877efedd7bb9fd.png",
+    "static/media/blog-5.jpg": "/reactjs/static/media/blog-5.f71bcb83a7965f98dd16.jpg",
+    "static/media/blog-1.jpg": "/reactjs/static/media/blog-1.b1b5897240552578f416.jpg",
+    "static/media/team-2.jpg": "/reactjs/static/media/team-2.499edd442c03dc2c1648.jpg",
+    "static/media/team-3.jpg": "/reactjs/static/media/team-3.e923820acd7a442bb0dc.jpg",
+    "static/media/blog-4.jpg": "/reactjs/static/media/blog-4.c9c85658c69a68471852.jpg",
+    "static/media/blog-2.jpg": "/reactjs/static/media/blog-2.e7678c902e62d2f9e35f.jpg",
+    "static/media/details-payment.png": "/reactjs/static/media/details-payment.e0b8d9151547631c103c.png",
+    "static/media/product-4.jpg": "/reactjs/static/media/product-4.a494345c85de12cce04e.jpg",
+    "static/media/slick.svg": "/reactjs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactjs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/reactjs/index.html",
+    "static/media/slick.ttf": "/reactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactjs/static/media/slick.295183786cd8a1389865.woff",
+    "main.b68809ce.css.map": "/reactjs/static/css/main.b68809ce.css.map",
+    "main.3677bcfe.js.map": "/reactjs/static/js/main.3677bcfe.js.map",
+    "453.fcbfcfec.chunk.js.map": "/reactjs/static/js/453.fcbfcfec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b68809ce.css",
+    "static/js/main.3677bcfe.js"
+  ]
+}
